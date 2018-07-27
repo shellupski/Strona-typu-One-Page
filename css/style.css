@@ -1,0 +1,129 @@
+body 
+{
+font-size:20px; 
+color:#3399FF; 
+background:#99FFFF; 
+font-family: 'Nunito Sans', sans-serif;
+}
+
+h1
+{
+font-family: 'Shrikhand', cursive;
+color: #33ff33;
+font-size:30px; 
+}
+
+h2
+{
+font-family: 'Shrikhand', cursive;
+color: #FFFF00;
+font-size: 60px;
+position: relative; top:250px;
+}
+	
+	
+	
+
+p7
+{
+font-family: 'Alfa Slab One', cursive;
+color: #33FFFF;
+font-size:20px; 
+}
+
+h5
+{
+font-family: 'Arimo', sans-serif;
+font-size:60px; 
+}
+
+h8
+{
+font-size:25px; 
+font-family: 'Berkshire Swash', cursive;
+}
+
+.btn-primary
+{
+font-family: 'Russo One', sans-serif;
+font-size: 40px;
+background-color: yellow;
+color:red;
+margin:20px; 
+padding:10px; 
+border:0px;
+font-weight: bold;
+}
+
+.btn-wyslij
+{
+font-family: 'Arimo', sans-serif;
+background-color: #33ff66;
+color:#000099;
+border: 3px solid;
+padding: 10px;
+margin:5px; 
+border-color: red;
+border-radius: 30px;
+}
+
+.navbar-brand img
+{
+width:200px;
+height:125px;
+}
+
+.carousel-inner img
+{
+width:400px;
+height:600px;
+}
+
+.jumbotron 
+{
+background-color: #CCFFFF;
+text-align: center;
+}
+
+.kontakt
+{
+background-color: #CCFFFF;
+text-align: center;
+}
+
+.podobne
+{
+text-align: center;
+}
+
+section.parallax  {
+height: 600px;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+
+}
+
+.parallax-1 {
+background-image: url(../img/bg1.jpg);
+
+}
+
+.parallax-2{
+background-image: url(../img/bg2.jpg);
+
+}
+
+.parallax-3 {
+	background-image: url(../img/bg3.jpg);
+}
+
+.parallax-4 {
+	background-image: url(../img/bg4.jpg);
+}
+
+* {
+	scroll-behavior: smooth;
+}	
+
